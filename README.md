@@ -8,3 +8,6 @@
 
 <h1>Objetivo<h1/>
 #era criar um app  que rolasse um dado e mostrasse um valor de acordo com a imagem
+
+ ⚡ Curiosidade: foi tudo escrito em kotlin
+  
