@@ -4,7 +4,7 @@
 🌱 Atualmente estou aprendendo a programar um app de rolar um dado 
 
 
-<img src=https://cdn.pixabay.com/photo/2012/04/05/01/24/dice-25637_960_720.png width="60" height="60">
+<<a href="https://www.imagensanimadas.com/cat-dados-710.htm"><img src="https://www.imagensanimadas.com/data/media/710/dado-imagem-animada-0104.gif" border="0" alt="dado-imagem-animada-0104" /></a>g>
 
 
 
