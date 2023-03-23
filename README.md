@@ -1,9 +1,9 @@
 ﻿# DiceRoller-PMI
 # Olá, me chamo victor
 
-🌱 Atualmente estou aprendendo a programar um app 
- 
-de rolar um dado 
+🌱 Atualmente estou aprendendo a programar um app de rolar um dado 
+
+https://cdn.pixabay.com/photo/2012/04/05/01/24/dice-25637_960_720.png
 
 
 
